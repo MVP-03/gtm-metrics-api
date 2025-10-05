@@ -1,0 +1,10 @@
+[
+  { "id": "c1-s1-a", "campaign_name": "Q2 Series B Outbound", "sequence_step": 1, "variant": "A", "sent": 400, "opened": 176, "replied": 37, "positive_replies": 14, "meetings_booked": 4, "send_date": "2026-06-09" },
+  { "id": "c1-s2-a", "campaign_name": "Q2 Series B Outbound", "sequence_step": 2, "variant": "A", "sent": 364, "opened": 113, "replied": 15, "positive_replies": 5, "meetings_booked": 2, "send_date": "2026-06-11" },
+  { "id": "c1-s1-b", "campaign_name": "Q2 Series B Outbound", "sequence_step": 1, "variant": "B", "sent": 400, "opened": 168, "replied": 41, "positive_replies": 18, "meetings_booked": 7, "send_date": "2026-06-09" },
+  { "id": "c1-s2-b", "campaign_name": "Q2 Series B Outbound", "sequence_step": 2, "variant": "B", "sent": 359, "opened": 108, "replied": 18, "positive_replies": 7, "meetings_booked": 3, "send_date": "2026-06-11" },
+  { "id": "c2-s1-a", "campaign_name": "Founder Cold - DevTools", "sequence_step": 1, "variant": "A", "sent": 250, "opened": 122, "replied": 28, "positive_replies": 11, "meetings_booked": 5, "send_date": "2026-06-12" },
+  { "id": "c2-s2-a", "campaign_name": "Founder Cold - DevTools", "sequence_step": 2, "variant": "A", "sent": 222, "opened": 74,  "replied": 9,  "positive_replies": 3,  "meetings_booked": 1, "send_date": "2026-06-14" },
+  { "id": "c3-s1-a", "campaign_name": "Reactivation - Churned", "sequence_step": 1, "variant": "A", "sent": 180, "opened": 63,  "replied": 8,  "positive_replies": 2,  "meetings_booked": 1, "send_date": "2026-06-15" },
+  { "id": "c3-s2-a", "campaign_name": "Reactivation - Churned", "sequence_step": 2, "variant": "A", "sent": 172, "opened": 41,  "replied": 5,  "positive_replies": 1,  "meetings_booked": 0, "send_date": "2026-06-17" }
+]
